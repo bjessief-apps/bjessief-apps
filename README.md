@@ -22,8 +22,8 @@ Before the warehouse I did technical support at DISH and spent a lot of my time 
 
 - **Building apps:** HTML, CSS, JavaScript, Python, VS Code, Git and GitHub Pages
 - **Computers:** Windows 11, Linux (Ubuntu, Kali, MX Linux, dual-boot and GRUB), the terminal
-- **Hardware:** diagnostics and repair, multimeter testing, micro-soldering
-- **Work:** leading a crew, training new hires, writing training plans, finding faster ways to do things
+- **Hardware:** diagnostics and repair, multimeter testing
+- **Work:** leading a crew, training new hires, finding faster ways to do things
 
 ## What I'm doing now
 
