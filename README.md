@@ -2,12 +2,6 @@
 
 I like figuring out how things work and making them run smoother. I've led a warehouse crew, done technical support, and managed a small shop, and I build small tools for problems I run into along the way.
 
-## How I work
-
-- Look at the whole process before changing one part of it
-- Find where things slow down or get lost
-- Start with a small fix, test it on real work, and build from there
-- Write it down so the next person can pick it up
 
 ## Projects
 
