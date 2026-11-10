@@ -1,6 +1,6 @@
 # Hi, I'm Jessie 👋
 
-I'm a lead at a warehouse in the Phoenix area, and I build tools for the problems I run into at work.
+I was a lead at a warehouse in the Phoenix area from July to November 2026, and I build tools for the problems I run into at work.
 
 Most of my apps started the same way: something on the floor was being tracked in somebody's head, on a scrap of paper, or buried in a group chat, and I figured there had to be a better way. So I built it, put it on my phone, and used it on real shifts.
 
